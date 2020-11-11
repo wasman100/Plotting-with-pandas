@@ -18,8 +18,3 @@ The usual!
 * Remember to **save** the notebook when you're done
 * Commit your modified `nba_plotting.ipynb` file, push, and submit your assignment as usual.
 
----
-
-# No, not that kind of Plotting...
-
-![](https://media.giphy.com/media/10rsLtGrOcCR0s/giphy.gif)
